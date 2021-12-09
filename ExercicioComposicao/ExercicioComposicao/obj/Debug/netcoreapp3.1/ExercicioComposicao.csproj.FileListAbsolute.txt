@@ -1,0 +1,12 @@
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.exe
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.deps.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.runtimeconfig.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.runtimeconfig.dev.json
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\bin\Debug\netcoreapp3.1\ExercicioComposicao.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.AssemblyInfo.cs
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.dll
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.pdb
+C:\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 9 - Enumerações e composição\ExercicioComposicao\ExercicioComposicao\obj\Debug\netcoreapp3.1\ExercicioComposicao.genruntimeconfig.cache
